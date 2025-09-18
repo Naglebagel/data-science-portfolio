@@ -17,10 +17,10 @@ Welcome to my data science portfolio! This repository highlights projects that d
 ## 2. [Musical Instrument Image Classification (CNN)](./Instrument-CNN)
 - **Skills:** Python, NumPy, TensorFlow/Keras, Matplotlib  
 - **Highlights:**  
-  - Designed and trained 3 CNN models (`instrument_net01`, `instrument_net02`, `instrument_net02_tuned`)  
-  - Achieved >90% accuracy with dropout tuning and model refinement  
-  - Visualized accuracy/loss curves to evaluate performance  
-- **Impact:** Built scalable deep learning models for image-based instrument classification.  
+  - Designed and trained 3 CNN models (`instrument_net01`, `instrument_net02`, `instrument_net03`)  
+  - Achieved ~90% training accuracy and ~76% validation accuracy with early stopping and dropout tuning  
+  - Visualized accuracy/loss curves and sample predictions to evaluate performance  
+- **Impact:** Demonstrated progression from baseline to tuned CNNs, improving generalization for image-based instrument classification.
 
 ---
 
